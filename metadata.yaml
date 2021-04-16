@@ -1,11 +1,16 @@
 _repo: Revolutionarer-och-emigranter_65016
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Söderhjelm, Alma
     gutenberg_agent_id: '53147'
     url: http://www.gutenberg.org/2009/agents/53147
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65016#Revolutionarer-och-emigranter
 gutenberg_issued: '2021-04-07'
 gutenberg_type: Text
 identifiers:
